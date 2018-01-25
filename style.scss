@@ -18,6 +18,18 @@ html {
 }
 
 body {		
+	table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
 	height: 950px;
   background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   font: 18px/1.4 $helvetica;
