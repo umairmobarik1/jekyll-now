@@ -16,7 +16,7 @@ avatar: https://media.giphy.com/media/wjRs1E7al2P6/giphy.gif
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: /wiki/Ned_Flanders
   facebook: /people/Ned-Flanders/1471320565
   flickr:
   github: barryclark/jekyll-now
