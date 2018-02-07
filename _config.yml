@@ -17,7 +17,7 @@ avatar: https://media.giphy.com/media/wjRs1E7al2P6/giphy.gif
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/people/Ned-Flanders/1471320565
   flickr:
   github: barryclark/jekyll-now
   instagram:
@@ -26,7 +26,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: /diddly_flanders?lang=en 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: /channel/UCbeaPSuwERFcEfuDIozFyEw
+  youtube: 
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
