@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze box week three</td>
+    <td>Fuze Box Week 3</td>
     <td></td>
     <td>30/01/18</td>
   </tr>
