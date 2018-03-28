@@ -1,5 +1,5 @@
 ---
-title: fuze box lesson 6
+title: Fuze box lesson 6
 layout: post
 author: umairmobarik1
 permalink: /fuze-box-lesson-6/
